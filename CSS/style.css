@@ -310,7 +310,9 @@ main{
     .h1_1{
         font-size: 22px;
     }
-        
+    .copyright{
+        height: 100px;
+    }
     
 }
 
@@ -370,7 +372,7 @@ body {
   }
   
   table th {
-    background-color:;
+    background-color:rgb(28, 44, 4);
     color: #fff;
   }
   
